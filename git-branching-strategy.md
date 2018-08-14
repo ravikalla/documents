@@ -63,6 +63,7 @@
 
 ## Hot Fixes – Not part of a release
 <img src="https://github.com/ravikalla/documents/blob/master/Images/GitBranchingStrategy.png" width="95%" height="95%">
+
 #### How to handle Hot Fixes?
    * Create a new branch from Master Branch
    * Do the code changes and test them in Dev and QA environment ASAP
